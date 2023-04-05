@@ -9,29 +9,6 @@ Another module down.
 
 This project uses the King County House Sales dataset, which can be found in  `kc_house_data.csv` in the data folder in this repo. The description of the column names can be found in `column_names.md` in the same folder. As with most real world data sets, the column names are not perfectly described,a description of what the columns used mean;
 
-id : A notation for a house
-
-date: Date house was sold
-
-price: Price is prediction target
-
-bedrooms: Number of bedrooms
-
-bathrooms: Number of bathrooms
-
-sqft_living: Square footage of the home
-
-sqft_lot: Square footage of the lot
-
-floors :Total floors (levels) in house
-
-waterfront :House which has a view to a waterfront
-
-grade: overall grade given to the housing unit, based on King County grading system
-
-yr_built : Built Year
-
-condition :How good the condition is overall
 The dropped columns include:
 
 * date
