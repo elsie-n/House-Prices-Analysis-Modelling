@@ -1,6 +1,6 @@
-# Phase 2 Project
+# House Prices Analysis/Modelling(Predictive)
 
-Another module down.
+Another one down.
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-campus/master/halfway-there.gif)
 
