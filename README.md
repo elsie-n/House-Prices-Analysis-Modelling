@@ -1,10 +1,4 @@
 # House Prices Analysis/Modelling(Predictive)
-
-Another one down.
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-campus/master/halfway-there.gif)
-
-
 ### The Data
 
 This project uses the King County House Sales dataset, which can be found in  `kc_house_data.csv` in the data folder in this repo. The description of the column names can be found in `column_names.md` in the same folder. As with most real world data sets, the column names are not perfectly described,a description of what the columns used mean;
